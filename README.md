@@ -2,7 +2,7 @@
 
 I've created very simple and useful Expense Tracking Application.
 
-### Features:
+### Outline:
 - User can add Income and Expenses both 
 - Net Amount will be calculated automatically (Income - expenses)
 - Once user cross the income Amount, Net Amount will become red to alert the user for extra expenses
