@@ -37,6 +37,8 @@ dependencies:
   hive: ^2.0.4
   hive_flutter: ^1.1.0
   intl: ^0.17.0
+  flutter_launcher_icons: ^0.9.3
+  percent_indicator: ^4.2.2
 
 dev_dependencies:
   flutter_test:
@@ -61,6 +63,10 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/spending.png"
 
   # To add assets to your application, add an assets section, like this:
   # assets:
